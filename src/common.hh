@@ -38,7 +38,7 @@
  in unity3d monodev-unity 5.9.6 to enable unsafe mode click on the Assembly-CSharpt->Options->General “Allow “Unsafe” Code”
  
  dynamic array marshalling is hard!
-*/and
+*/
 
 #ifndef VOROPP_COMMON_HH
 #define VOROPP_COMMON_HH
